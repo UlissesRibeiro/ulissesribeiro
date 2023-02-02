@@ -1,11 +1,11 @@
-### Opa, Ulisses (Stark) Ribeiro aqui!👋
+### Hi, Ulisses (Stark) Ribeiro here!👋
 
-<h3>Afiliações</h3>
+<br>
 
-- 💻 Atualmente trabalho como SysAdmin jr na <strong> Vox Tecnologia </strong> !
-- 📚 Estudando Sistemas para internet pela <strong>Estácio</strong> !
+- 💻 I currently work as a sysadmin at <strong> Vox Tecnologia </strong> !
+- 📚 I study Internet systems at <strong>Estácio</strong> !
 
-<p align="center">Tento resolver tudo com shell script e PHP !</p>
+<p align="center">You can solve everything with shell script !</p>
 <div align="center">
   <a href="https://github.com/ulissesribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ulissesribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
