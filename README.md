@@ -58,10 +58,6 @@
     - Controle de usuários - Active Directory.
     - Criação e gerenciamento de VPNs.
     - Criação e gerenciamento de VMs(ESXI,vCenter)
-    - Administração de servidores Linux : Ubuntu. 
-    - Automação de tarefas(Monitoramento de backups, envio de emails). 
-    - Controle de usuários - Active Directory.
-     - Criação e gerenciamento de VPNs. - Criação e gerenciamento de VMs(ESXI,vCenter)
 
 ### Formações :
 
