@@ -1,31 +1,41 @@
-### Hi, Ulisses (Stark) Ribeiro here!👋
+### Opa, Ulisses(stark) aqui!👋
 
 <br>
 
-- 💻 I currently work as a sysadmin at <strong> Vox Tecnologia </strong> !
-- 📚 I study Internet systems at <strong>Estácio</strong> !
+- Sou de João Pessoa - PB
+- 💻 Atualmente trabalho como <b>Administrador de Redes JR 1</b> na <b> Vox Tecnologia </b> !
+- 📚 Estudante de <b>Sistemas para Internet</b> pela <b>Estácio</b> !
+- 📚 Estudante de Tecnologias DevOps, atualmente cursando <b>Descomplicando Terraforms</b>, da <b>LinuxTips</b>!
+- 📚 Estudante também em paralelo no curso de <b>Ethical Hacking e Penetration Testing
+</b>, na plataforma de <b>Udemy</b>!
 
-<p align="center">You can solve everything with shell script !</p>
-<div align="center">
+<hr>
+
+
+<p align="center">Da pra resolver tudo com shell script !</p>
+
+
+
+  
+## Tecnologias
+
+   
+<img align="center" alt="Stark-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Stark-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Stark-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="Stark-Bs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+<img align="center" alt="Stark-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+<img align="center" alt="Stark-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">     <img align="center" alt="Stark-bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+<img height="30" width="40" align="center" alt="Stark-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+          
+<hr>
+
   <a href="https://github.com/ulissesribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ulissesribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulissesribeiro&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  <div style="display: inline_block" align="center"><br>
-    <img align="center" alt="Stark-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Stark-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Stark-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Stark-Bs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Stark-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-    <img align="center" alt="Stark-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">     <img align="center" alt="Stark-bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-    <img height="30" width="40" align="center" alt="Stark-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-          
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulissesribeiro&layout=compact&langs_count=7&theme=dark"/></a>
     
-    
-    
-</div>
+
   
   ##
   
