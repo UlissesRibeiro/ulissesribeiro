@@ -28,12 +28,12 @@
 </div>
 
 - Desenvolvimento web back-end :
-
+<div>
 <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
 <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>
-
+</div>
 - Infraestrutura :
-
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"  width=50/ >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width=50/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width=50/>
@@ -47,7 +47,7 @@
 <img src='https://blogs.vmware.com/euc/files/2017/08/VMware_cloud_icon.jpg' width=59>
 <img src='https://miro.medium.com/v2/resize:fit:720/1*kk22SDXEt6p-mQCSlOYpcg.png' width=55>
 
-
+</div>
     
 - Sistemas Operacionais :
 
