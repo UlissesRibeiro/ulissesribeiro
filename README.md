@@ -43,8 +43,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width=50/>
 <img src='https://static.wixstatic.com/media/711511_dc5748aecb5c43628047a0069439d287~mv2.png/v1/fill/w_1000,h_1000,al_c,q_90,usm_0.66_1.00_0.01/711511_dc5748aecb5c43628047a0069439d287~mv2.png' width=50>
 <img src='https://wpcomputersolutions.com/wp-content/uploads/2018/07/pfsense-logo-e1534531558807.png' width=50>
-<img src='https://cdn.icon-icons.com/icons2/2699/PNG/512/zabbix_logo_icon_167937.png' width=50>
-<img src='https://blogs.vmware.com/euc/files/2017/08/VMware_cloud_icon.jpg' width=59>
+<img src='https://miro.medium.com/v2/resize:fit:486/1*vloEha9mTCLM_SEnXdIUIw.png' width=50>
+<img src='https://content.instructables.com/F7E/RC7W/KVCE0TIO/F7ERC7WKVCE0TIO.jpg?auto=webp&frame=1&md=866db1d5c0678fc2f5ba8fd0e0ccf4aa' width=59>
 <img src='https://miro.medium.com/v2/resize:fit:720/1*kk22SDXEt6p-mQCSlOYpcg.png' width=55>
 
 </div>
