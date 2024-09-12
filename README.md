@@ -2,7 +2,7 @@
 
 <br>
 
-- Sou de João Pessoa - PB, tenho 31 anos, sou pai da Morgana(não, Morgana não é o ser que esta comigo na foto do perfil, esse dai é o Ernesto!) que futuramente vai estar dando update sem where em produção!
+- Sou de João Pessoa - PB, tenho 32 anos, sou pai da Morgana(não, Morgana não é o ser que esta comigo na foto do perfil, esse dai é o Ernesto!) que futuramente vai estar dando update sem where em produção!
 - 💻 Atualmente trabalho como <b>Administrador de Redes JR 3</b> na <b> Vox Tecnologia </b> !
 - 📚 Estudante de <b>Sistemas para Internet</b> pela <b>Estácio</b> !
 - 📚 Estudante de Tecnologias DevOps, muito do que aprendi foram com os cursos da <b>LinuxTips</b>! Meu foco atualmente é na area de DevOps e Pentest.
