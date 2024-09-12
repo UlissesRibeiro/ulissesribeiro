@@ -3,11 +3,9 @@
 <br>
 
 - Sou de João Pessoa - PB, tenho 31 anos, sou pai da Morgana(não, Morgana não é o ser que esta comigo na foto do perfil, esse dai é o Ernesto!) que futuramente vai estar dando update sem where em produção!
-- 💻 Atualmente trabalho como <b>Administrador de Redes JR 1</b> na <b> Vox Tecnologia </b> !
+- 💻 Atualmente trabalho como <b>Administrador de Redes JR 3</b> na <b> Vox Tecnologia </b> !
 - 📚 Estudante de <b>Sistemas para Internet</b> pela <b>Estácio</b> !
-- 📚 Estudante de Tecnologias DevOps, atualmente cursando <b>Descomplicando Terraform</b>, da <b>LinuxTips</b>!
-- 📚 Estudante também em paralelo no curso de <b>Ethical Hacking e Penetration Testing
-</b>, na plataforma de <b>Udemy</b>!
+- 📚 Estudante de Tecnologias DevOps, muito do que aprendi foram com os cursos da <b>LinuxTips</b>! Meu foco atualmente é na area de DevOps e Pentest.
 
 <hr>
 
@@ -59,7 +57,7 @@
 
 ### Experiências Profissionais :
 
-- Administrador de Redes JR 1 - Vox Tecnologia
+- Administrador de Redes JR 3 - Vox Tecnologia
 
 
     - Administração de servidores Linux : Ubuntu.
@@ -70,7 +68,7 @@
 
 ### Formações :
 
-- Sistemas para Internet - UNIVERSIDADE ESTÁCIO DE SÁ - 07/2021 | Cursando
+- Sistemas para Internet - UNIVERSIDADE ESTÁCIO DE SÁ
 
 ### Cursos :
 
@@ -80,6 +78,7 @@
 - Linux Admin - LinuxTips
 - DevOps : mão na massa - Udemy Brasil (Glaucio Guerra)
 - Php 7 - Udemy Brasil (HCODE)
+- Pentest Profissional - Udemy Brasil
 
 
  ### Como entrar em contato comigo :
