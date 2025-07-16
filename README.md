@@ -3,9 +3,9 @@
 <br>
 
 - Sou de João Pessoa - PB, tenho 32 anos, sou pai da Morgana(não, Morgana não é o ser que esta comigo na foto do perfil, esse dai é o Ernesto!) que futuramente vai estar dando update sem where em produção!
-- 💻 Atualmente trabalho como <b>Administrador de Redes JR 3</b> na <b> Vox Tecnologia </b> !
-- 📚 Estudante de <b>Sistemas para Internet</b> pela <b>Estácio</b> !
-- 📚 Estudante de Tecnologias DevOps, muito do que aprendi foram com os cursos da <b>LinuxTips</b>! Meu foco atualmente é na area de DevOps e Pentest.
+- 💻 Atualmente trabalho como <b>Especialista de NOC</b> na <b> Inorpel Cybersecurity </b> !
+- 📚 Formado em <b>Sistemas para Internet</b> pela <b>Estácio</b> !
+- 📚 Estudante de Tecnologias DevOps, muito do que aprendi foram com os cursos da <b>LinuxTips</b>! Meu foco atualmente é na area de DevOps.
 
 <hr>
 
@@ -31,7 +31,10 @@
 <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>
 </div>
 - Infraestrutura :
+
+
 <div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"  width=50/ >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width=50/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width=50/>
